@@ -1,0 +1,1 @@
+(defun fun (xyz) (if (and 2 3) a b))#
