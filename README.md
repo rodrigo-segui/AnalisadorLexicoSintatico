@@ -28,12 +28,12 @@ validação dos analisadores, onde o léxico deve criar uma lista de tokens e o 
 verificar se o programa escrito pertence à linguagem.
  
 ## Relatório
-O projeto está documentado e pode ser acessado em: 
+O projeto está documentado e pode ser acessado em: https://github.com/Rodrigo-Segui/AnalisadorLexicoSintatico/blob/master/relatorio.pdf
 
 ## Começando
 
  1. Clone esse repositorio ```git clone https://github.com/Rodrigo-Segui/AnalisadorLexicoSintatico.git```
- 2. Inicie o proejeto no netbeans(preferencialmente) e o execute (linux).
+ 2. Inicie o projeto no netbeans(preferencialmente) e o execute (linux).
   
  ## :memo: Licença
 
